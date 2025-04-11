@@ -93,7 +93,7 @@ export const About = () => {
           }} viewport={{
             once: true
           }} className="relative z-10">
-              <img src="/public/patricia.jpg" alt="Patrícia Oliveira" className="rounded-lg shadow-xl" />
+              <img src="/patricia.jpg" alt="Patrícia Oliveira" className="rounded-lg shadow-xl" />
               <div className="absolute inset-0 border-2 border-yellow-500 rounded-lg rotate-3 z-[-1]" />
             </motion.div>
             <div className="absolute top-0 right-0 -translate-y-12 translate-x-6 space-y-4">

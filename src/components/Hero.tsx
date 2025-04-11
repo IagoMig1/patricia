@@ -73,7 +73,7 @@ export const Hero = () => {
               type: 'spring',
               stiffness: 300
             }}>
-                <img src="./public/patricia2.jpg" alt="Patrícia Oliveira" className="w-full rounded-lg shadow-2xl" />
+                <img src="/patricia2.jpg" alt="Patrícia Oliveira" className="w-full rounded-lg shadow-2xl" />
                 <div className="absolute inset-0 bg-gradient-to-t from-green-900/20 to-transparent" />
               </motion.div>
               <motion.div className="absolute inset-0 border-2 border-yellow-500 rounded-lg z-0" animate={{
